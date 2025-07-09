@@ -33,7 +33,7 @@ I'm a Computer Science student at the University of Oregon, currently exploring 
 
 ## Let's Connect
 
-- ✉You can reach me via [LinkedIn](https://www.linkedin.com/in/andrew-chan8/) (or just fork a repo and start a convo!).
+- You can reach me via [LinkedIn](https://www.linkedin.com/in/andrew-chan8/) (or just fork a repo and start a convo!).
 
 ---
 
