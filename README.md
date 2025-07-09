@@ -14,7 +14,7 @@ I'm a Computer Science student at the University of Oregon, currently exploring 
 - **Minidock Project** — Lightweight container system using `chroot`, namespaces, and file isolation — written in C with Linux system calls.
 ---
 
-## 📚 Academic Focus
+## Academic Focus
 
 - **Interests**: Systems, AI.
 - **Courses**: Operating Systems, Machine Learning, Natural Language Processing, Network Security.
@@ -23,7 +23,7 @@ I'm a Computer Science student at the University of Oregon, currently exploring 
 
 ---
 
-## 📈 Currently Working On
+## Currently Working On
 
 - Preparing for **technical interviews** (LeetCode: 250+ problems done with 50%+ being Medium and above).
 - Building a **3D drone from scratch** (frame, flight logic, remote, all custom).
@@ -31,9 +31,9 @@ I'm a Computer Science student at the University of Oregon, currently exploring 
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-- ✉️ You can reach me via [LinkedIn](https://www.linkedin.com) (or just fork a repo and start a convo!).
+- ✉You can reach me via [LinkedIn](https://www.linkedin.com/in/andrew-chan8/) (or just fork a repo and start a convo!).
 
 ---
 
